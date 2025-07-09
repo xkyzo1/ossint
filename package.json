@@ -1,0 +1,24 @@
+{
+  "name": "kyzo-reconhive",
+  "version": "2.0.0",
+  "description": "Enhanced OSINT Toolkit CLI by KYZO",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "osint",
+    "cli",
+    "recon",
+    "security",
+    "kyzo",
+    "toolkit"
+  ],
+  "author": "Kyzo",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
